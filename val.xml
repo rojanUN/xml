@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE student[
+    <!ELEMENT student (name,address,roll,email)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT roll (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+]>
+
+<student>
+    <name>rojan</name>
+    <address>ktm</address>
+    <roll>4730</roll>
+    <email>rojan2gmail.com</email>
+</student>

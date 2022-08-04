@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE student
+    
+
+<student>
+    <name>rojan</name>
+    <address>ktm</address>
+    <roll>4730</roll>
+    <email>rojan2gmail.com</email>
+</student>
